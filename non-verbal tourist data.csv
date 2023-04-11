@@ -1,4 +1,4 @@
-﻿sex,age,country,returning,GImg1,GImg2,GImg3,PImg1,PImg2,PImg3,PImg4,PImg5,Tense - relaxed,Authoritative -anarchic ,Hostile - friendly,TAudio1,TAudio2,TAudio3,QAudio1,QAudio2,QAudio3,Proxemics,Type of Client
+﻿sex,age,country,returning,GImg1,GImg2,GImg3,PImg1,PImg2,PImg3,PImg4,PImg5,Tense-relaxed,Authoritative-anarchic,Hostile-friendly,TAudio1,TAudio2,TAudio3,QAudio1,QAudio2,QAudio3,Proxemics,Type of Client
 F,42,uruguay,no,likes,indiferent,indiferent,likes,likes,indiferent,indiferent,dislikes,4,8,3,C,dislikes,dislikes,indiferent,dislikes,dislikes,dislikes,0
 M,60,brasil,no,likes,indiferent,indiferent,likes,likes,likes,likes,?,2,9,1,B,dislikes,dislikes,likes,likes,dislikes,dislikes,0
 F,25,england,no,indiferent,indiferent,indiferent,likes,likes,indiferent,likes,dislikes,5,10,5,C,dislikes,dislikes,likes,dislikes,dislikes,dislikes,0
